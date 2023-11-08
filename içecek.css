@@ -1,0 +1,123 @@
+body{
+    background-color: rgb(206, 242, 167);
+}
+
+
+.İçecekler{
+   border: 3px solid black;
+   width: 300px;   
+   font-size: xx-large;
+   font-style: italic;
+   text-align: center;
+   top: 30px;
+   position: relative;
+   left: 600px;
+}
+.limonata{
+    font-size: x-large;
+    position: relative;
+    top: 230px;
+    left: 400px;
+}
+.içecek{
+    border: 5px solid black;
+    padding: 400px;
+    position: relative;
+    left: 350px;
+    top: 380px;
+    
+}
+.limonataR{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 400px;
+}
+.çay{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 25px;
+    left: 400px;
+}
+.Çayy{
+    font-size: x-large;
+    position: relative;
+    top: 255px;
+    left: 400px;
+}
+.ms{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 50px;
+    left: 400px;
+}
+.mss{
+    font-size: x-large;
+    position: relative;
+    top: 280px;
+    left: 400px;
+}
+.k{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    bottom: 692px;
+    left: 910px;
+}
+.kk{
+    font-size: x-large;
+    position: relative;
+    bottom: 462px;
+    left: 910px;
+}
+.m{
+    height: 200px;
+    width: 200px;
+    position: relative; 
+    bottom: 672px;
+    left: 910px;
+}
+.mS{
+    font-size: x-large;
+    position: relative;
+    bottom: 440px;
+    left: 910px;
+    
+}
+.ay{
+    height: 200px;
+    width: 200px;
+    position: relative; 
+    bottom: 642px;
+    left: 910px;
+}
+.ayran{
+    font-size: x-large;
+    position: relative;
+    bottom: 413px;
+    left: 910px;
+}
+
+.sn{
+    border: 2px solid black;
+    position: relative;
+    width: 280px;
+    bottom: 643px;
+    left: 612px;
+    font-size: x-large;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
